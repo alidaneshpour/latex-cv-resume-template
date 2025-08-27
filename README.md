@@ -33,6 +33,7 @@ You'll need a LaTeX distribution installed on your system:
 - [**Windows**: [MiKTeX](https://miktex.org/) or [TeX Live](https://tug.org/texlive/)
 - [**macOS**: [MacTeX](https://tug.org/mactex/)
 - **Linux**: TeX Live (usually available in package managers)
+- **Overleaf**: Online option (no installation required, works entirely in the browser)
 
 ### Required Packages
 
