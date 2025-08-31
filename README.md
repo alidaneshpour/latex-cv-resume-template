@@ -1,6 +1,6 @@
 # Professional LaTeX Resume (CV) Template
 
-A clean, modern, and ATS-friendly LaTeX resume template perfect for academics, researchers, and professionals in technical fields. This template is based on Jake Gutierrez's work and has been enhanced with additional features and customizations.
+A clean, modern, and ATS-friendly LaTeX resume template perfect for academics, researchers, and professionals in technical fields. This template is based on [Jake Gutierrez's](https://github.com/jakegut/resume) work and has been enhanced with additional features and customizations.
 
 ## 🌟 Features
 
